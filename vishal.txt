@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is some additional content.
+=======
+This is new file
+>>>>>>> 7617dff238b283a90803c722c91af9ea0b75cf98
